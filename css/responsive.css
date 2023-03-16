@@ -1,0 +1,25 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+    .showcase-content h1{
+        font-size: 50px;
+    }
+
+    .showcase-content p {
+        font-size: 36px;
+    }
+
+    .showcase-content a {
+        font-size: 36px;
+    }
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+    .tab-2-content-top p {
+        font-size: 20px;
+    }
+
+    .tab-2-content-bottom p {
+        font-size: 18px;
+    }
+}
